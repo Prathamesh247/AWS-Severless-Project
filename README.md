@@ -9,3 +9,6 @@ It utilizes the AWS services:
 - S3, 
 - CloudFront and 
 - CloudWatch
+
+
+Project CDN link: https://d3i5yapwdstc8g.cloudfront.net
